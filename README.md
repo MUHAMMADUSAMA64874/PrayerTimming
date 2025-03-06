@@ -1,2 +1,1 @@
-
-![DEMO](./images/namaztable.png "img alt")
+![Namaz Table](images/namaz%20table.png)
