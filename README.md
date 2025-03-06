@@ -1,2 +1,2 @@
 
-![DEMO](./folder/imagename "img alt")
+![DEMO](./images/namaztable.png "img alt")
